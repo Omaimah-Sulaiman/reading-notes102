@@ -9,9 +9,10 @@
 ## 
 
 
-| Syntax         | Description                   | Link              |
-| :---           |    :----:                     |           ---:    |
-|  intoGit       | summary about git             | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02)         |
-|  igrowthMindes | summary about growthMindest   | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/growthMindest)  |
+| Syntax         | Description                        | Link              |
+| :---           |    :----:                          |           ---:    |
+|  intoGit       | summary about git                  | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02)              |
+|  igrowthMindes | summary about growthMindest        | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/growthMindest)       |
+|  igrowthMindes |summary about wireframes and html   | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03)              |
 
 
