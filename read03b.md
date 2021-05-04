@@ -36,7 +36,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
 
 ```
 
-##
+
 
 # Three Ways to Insert CSS
   There are three ways of inserting a style sheet:
@@ -54,6 +54,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
     <p>This is a paragraph.</p>
     </body>
     </html>
+  ```  
  - Internal CSS
    
    ```
@@ -75,6 +76,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
       <p>This is a paragraph.</p>
       </body>
       </html>
+    ```
 
   - Inline CSS
   ```
@@ -85,3 +87,4 @@ We then have a set of curly braces { }. Inside those will be one or more declara
       <p style="color:red;">This is a paragraph.</p>
       </body>
       </html>
+  ```
