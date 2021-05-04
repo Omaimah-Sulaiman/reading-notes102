@@ -35,7 +35,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
 
 
 ```
-##
+
 ##
 
 # Three Ways to Insert CSS
@@ -44,7 +44,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
  - External CSS
    -
    ```
-   <!DOCTYPE html>
+    <!DOCTYPE html>
     <html>
     <head>
     <link rel="stylesheet" href="mystyle.css">
@@ -57,7 +57,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
  - Internal CSS
    
    ```
-   <!DOCTYPE html>
+     <!DOCTYPE html>
       <html>
       <head>
       <style>
@@ -78,7 +78,7 @@ We then have a set of curly braces { }. Inside those will be one or more declara
 
   - Inline CSS
   ```
-    <!DOCTYPE html>
+      <!DOCTYPE html>
       <html>
       <body>
       <h1 style="color:blue;text-align:center;">This is a heading</h1>
