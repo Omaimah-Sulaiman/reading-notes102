@@ -13,6 +13,5 @@
 | :---           |    :----:                          |           ---:    |
 |  intoGit       | summary about git                  | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02)              |
 |  igrowthMindes | summary about growthMindest        | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/growthMindest)       |
-|  igrowthMindes |summary about wireframes and html   | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03)              |
-
-
+|  intoHtml     |summary about wireframes and html    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03)              |
+|  intoCss      |summary about css                      | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03b)              |
