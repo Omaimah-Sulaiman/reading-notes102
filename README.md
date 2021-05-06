@@ -16,3 +16,4 @@
 |  intoHtml     |summary about wireframes and html    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03)              |
 |  intoCss      |summary about css                    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03b)              |
 |intoJavascript |Dynamic web pages with JavaScript    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read04a)              |
+|for and while |what is for and while loops           | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read05)              |
