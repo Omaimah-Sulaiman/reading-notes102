@@ -25,9 +25,9 @@
 
 # Code 201 Reading Notes
 
-| Syntax         | Description                        | Link              |
+| number        | Description                        | Link              |
 | :---           |    :----:                          |           ---:    |
-|                |                                    |                   |
+| read01         |  itroduction HTML&javaScript       | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read01-201)                  |
 |                |                                    |                   |
 |                |                                    |                   |
 |                |                                    |                   |

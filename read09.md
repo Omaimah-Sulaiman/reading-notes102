@@ -1,1 +1,0 @@
-#how installing ubunto
