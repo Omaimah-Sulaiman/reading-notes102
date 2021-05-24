@@ -27,9 +27,9 @@
 
 | number        | Description                        | Link              |
 | :---           |    :----:                          |           ---:    |
-| read01         |  introduction HTML&javaScript      | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read01-201)               |
-|  read02        | HTML Text, CSS,Basic JavaScript    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02-201)               |
-|                |                                    |                   |
+|  read01        |  introduction HTML&javaScript      | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read01-201)   |
+|  read02        | HTML Text, CSS,Basic JavaScript    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02-201)   |
+|  read03        |HTML Lists, CSS Boxes, JS Control Flow| [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03-201)                |
 |                |                                    |                   |
 |                |                                    |                   |
 |                |                                    |                   |
