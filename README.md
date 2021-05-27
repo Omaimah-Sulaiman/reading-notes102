@@ -31,7 +31,7 @@
 |  read02  | HTML Text, CSS,Basic JavaScript    | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read02-201)   |
 |  read03  |HTML Lists, CSS Boxes, JS Control Flow|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read03-201)  |
 | read04   |HTML Lists, CSS Boxes, JS Control Flow|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read04-201)  |
-|                |                                    |                   |
+|  read05  |Images,color,text in HTML             |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read05-201)                   |
 |                |                                    |                   |
 |                |                                    |                   |
 
