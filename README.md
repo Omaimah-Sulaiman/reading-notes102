@@ -34,8 +34,8 @@
 |  read05  |Images,color,text in HTML    |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read05-201)        |
 |  read06        |DOM                      |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read06-201)      |
 |read07          |tables,Functions, Methods, and Objects”|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read07-201)                   |
-|read07          |tables,Functions, Methods, and Objects”|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read08-201)                   |
-
+|read08          |layout|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read08-201)                   |
+|read09         |forms ,list ,table|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read09-201) 
 
 
 
