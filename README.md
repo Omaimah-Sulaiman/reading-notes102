@@ -36,7 +36,8 @@
 |read07          |tables,Functions, Methods, and Objects”|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read07-201)                   |
 |read08          |layout|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read08-201)                   |
 |read09         |forms ,list ,table|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read09-201)
-|read09         |JavaScript Debugging|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read10-201) 
+|read10         |JavaScript Debugging|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read10-201)
+|read11         |JavaScript Debugging|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read11)  
 
 
 
