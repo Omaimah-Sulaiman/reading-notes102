@@ -37,7 +37,8 @@
 |read08          |layout|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read08-201)                   |
 |read09         |forms ,list ,table|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read09-201)
 |read10         |JavaScript Debugging|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read10-201)
-|read11         |JavaScript Debugging|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read11)  
+|read11         |Practical Information,IMAGE|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read11) 
+|read12        | Chart.js, Canvas|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read12) 
 
 
 
