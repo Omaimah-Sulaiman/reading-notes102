@@ -41,6 +41,6 @@
 |read12        | Chart.js, Canvas|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read12) 
 |read13        | LocalStorge|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read13) 
 |read14        | Transitions, and Animations|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read14)
-|read14b        | Chart.js, Canvas|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read14b)
+|read14b        | What Google Learned About Teams|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/read14b)
 
 
