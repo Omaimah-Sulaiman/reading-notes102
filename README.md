@@ -45,3 +45,9 @@
 
 
 # Code 301 Reading Notes
+
+
+|  Description      | Link |
+| ----------- | ----------- |
+| Introduction to React and Components  | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-1)      |
+| Paragraph   | Text        |
