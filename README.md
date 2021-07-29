@@ -52,3 +52,4 @@
 | Introduction to React and Components  | [clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-1)      |
 |  State and Props   |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-2)
 |  Passing Functions as Props   |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-3)        |
+|  React and Forms |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-4)        |
