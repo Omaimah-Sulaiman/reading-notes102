@@ -53,3 +53,14 @@
 |  State and Props   |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-2)
 |  Passing Functions as Props   |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-3)        |
 |  React and Forms |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-4)        |
+|   READ5|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-5)
+|   READ6|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-6)   
+|   READ7 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-7)   
+|   READ8 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-8)   
+|   READ9 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-9)   
+|   READ10 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-10)   
+|   READ11|[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-11)   
+|   READ12 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-12)   
+|   READ13 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-13)   
+|   READ514 |[clickHere](https://omaimah-sulaiman.github.io/reading-notes102/reading-notes-3/read-514)   |
+
